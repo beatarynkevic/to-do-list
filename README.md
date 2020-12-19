@@ -7,7 +7,8 @@ You can access the website: [![c](https://img.shields.io/badge/HERE-9C27B0)](htt
 
 Inspiration: [To do list tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ&feature=youtu.be)
 
-<br>
+You can write your to do list and then check what tasks you have already done or delet tasks from list.
+You can filter to do list by choosing what you need: all, comleted, uncompleted tasks.
 
 ## Author
 
